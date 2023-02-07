@@ -19,6 +19,7 @@
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=neilsamaa&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" align = "center"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=neilsamaa&theme=dark&theme=tokyonight&hide_border=true" align = "center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&username=neilsamaa" height="160" alt="languages graph"  />
 </p>
 
 <div align="center">
