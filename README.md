@@ -19,7 +19,7 @@
 <br>
     
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=neilsamaa&card_width=400&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" align = "center"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=neilsamaa&card_width=400&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" align = "center"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=neilsamaa&layout=compact&card_width=400&langs_count=10&theme=tokyonight&hide_border=true" align = "center"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=neilsamaa&card_width=400&theme=dark&theme=tokyonight&hide_border=true" align = "center"/>
 
