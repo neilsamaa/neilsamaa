@@ -1,5 +1,7 @@
 ![Card Name](https://cardivo.vercel.app/api?name=Mirza%20Maulana%20Azmi&description=I'am%20a%20passionate%20DevOps%20Engineer%20from%20Indonesia&image=https://avatars.githubusercontent.com/u/55909176?v=4&linkedin=Mirza%20Maulana%20Azmi&instagram=neilsamaa&github=neilsamaa&pattern=floatingCogs&colorPattern=%23eaeaea&backgroundColor=%23ecf0f1)
 
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
+
 <div align="center">
   <a href="https://www.instagram.com/neilsamaa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
