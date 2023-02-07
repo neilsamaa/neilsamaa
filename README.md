@@ -17,12 +17,7 @@
 <br>
     
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=neilsamaa&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" align = "center"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=neilsamaa&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" align = "center"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=neilsamaa&theme=dark&theme=tokyonight&hide_border=true" align = "center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&username=neilsamaa" height="160" alt="languages graph"  />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=neilsamaa" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=neilsamaa" height="150" alt="languages graph"  />
-</div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=neilsamaa&layout=compact&card_width=520&langs_count=10&theme=tokyonight&hide_border=true" align = "center"/>
+ </p>
